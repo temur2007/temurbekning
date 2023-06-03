@@ -1,0 +1,10 @@
+input{
+    background-color: rgba(10,10,10,0);
+    border: none;
+    border-bottom: 1px solid white !important;
+    width: 350px!important;
+}
+.img1{
+    width: 20px;
+    height: 20px;
+}
